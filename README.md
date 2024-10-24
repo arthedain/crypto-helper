@@ -10,7 +10,7 @@ Steps to install the project:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd your-repo-name
+    cd crypto-helper
     ```
 3. Install the necessary dependencies:
     ```sh
